@@ -41,7 +41,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras
 ### **3. Cloning This Repository**
 To get a local copy of this repository, run:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+
+git clone https://github.com/sanasiddique-97/BAU-Machine-learning-lectures.git
+
 ```
 
 ---
